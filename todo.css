@@ -1,0 +1,66 @@
+body {
+    background: rgb(163, 135, 240);
+   
+  }
+  #main {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+  h1 {
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left: 600px;
+  }
+  #inputtodo {
+    margin-top: 40px;
+    margin-left: 50px;
+    padding: 5px;
+    width: 45%;
+    height: 90px;
+  }
+  #sub {
+    margin-top: 40px;
+    margin-left: 50px;
+  }
+  #addtodo,
+  #todo {
+    margin-top: 10px;
+    margin-left: 50px;
+  }
+  #addtodo {
+    width: 10%;
+  }
+  #cbtn {
+    margin-left: 10px;
+    width: 15%;
+    height: 15%;
+    background-color: rgb(23, 176, 6);
+    padding: 2px;
+    margin-top: 5px;
+  }
+  #newt {
+    font-size: 20px;
+    margin-left: 10px;
+    width: 50%;
+    word-wrap: break-word;
+    display: inline;
+  }
+
+  #sub2 {
+    margin-top: 160px;
+    margin-left: 80px;
+   
+  }
+  #done {
+    font-size: 20px;
+    margin-left: 130px;
+    margin: 30px;
+  }
+  .cap{
+    color: rgb(34, 14, 14);
+    font-weight: 400;
+    margin-top: 10px;
+    margin-left: 600px;
+  }
+ 
